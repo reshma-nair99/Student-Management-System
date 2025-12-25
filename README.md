@@ -1,22 +1,22 @@
 # Student-Management-System
-## Desscription
+## Description
 This is a beginer level SQL project to manage 
 student details and marks.
 
-##Database used
+## Database used
 SQL
 
-##Tables
+## Tables
 -students
 -marks
 
-##Features
+## Features
 -Add students
 -View student details
 -Fetch mark using join
 
 
-##How to Run
+## How to Run
 1. Create Database
 2. Run database.sql
 3. Run Queries.sql
